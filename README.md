@@ -26,7 +26,6 @@ Hey there! I'm Fiona, a frontend engineer and creative technologist who loves cr
 - 🐈‍⬛ I can perfectly fake cat noises—confusing humans and cats alike.
 - Let's connect and collaborate! 🚀
 
----
 
 ### What I work with?
 
@@ -104,7 +103,6 @@ Hey there! I'm Fiona, a frontend engineer and creative technologist who loves cr
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?logo=adobe-photoshop&style=social)&nbsp;&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-black?logo=adobe-illustrator&style=social)&nbsp;&nbsp;
 
----
 
 <!-- **🚀 Featured Projects:**
 
@@ -112,7 +110,6 @@ Hey there! I'm Fiona, a frontend engineer and creative technologist who loves cr
 - 💡 [LightDance Editor](https://github.com/NTUEELightDance/LightDance-Editor) - A visual programming tool for designing light shows.
 - 🌍 [Metagigs](https://itzsyboo.dev/) - A dynamic platform for connecting freelancers and clients. -->
 
-<!--END_SECTION:waka-->
 
 <p align="center">
 If you like this readme, please give it a star! ⭐
